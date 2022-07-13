@@ -10,4 +10,5 @@ public class MoviesReviewServiceApplication {
 		SpringApplication.run(MoviesReviewServiceApplication.class, args);
 	}
 
+	// this is just to make a commit 
 }
